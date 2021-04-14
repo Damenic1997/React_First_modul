@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.App input {
+    width: 100%;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    height: 40px;
+}
+
+
+div.div {
+  display: block;
+    float: left;
+    width: 25%;
+}
